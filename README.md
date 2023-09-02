@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathemartins" alt="mathemartins" /></a> </p>
 
-- 🔭 I’m currently working at [Syarpa](https://syarpa.com)
+- 🔭 I’m currently working at [Kounteq](https://kounteq.com)
 
 - 👯 I’m looking to collaborate on **Web3 Based Projects**
 
