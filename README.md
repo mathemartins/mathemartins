@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martins</h1>
-<h3 align="center">Senior Backend, Web3 And DevOps Engineer</h3>
+<h3 align="center">Senior Backend, Go (Gin), Python (Django) and DevOps (Terraform, k8s, Docker, Git-Actions) Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathemartins&label=Profile%20views&color=0e75b6&style=flat" alt="mathemartins" /> </p>
 
