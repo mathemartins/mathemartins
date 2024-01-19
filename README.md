@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at [Kounteq](https://kounteq.com)
 
-- 👯 I’m looking to collaborate on **Web3 Based Projects**
+- 👯 I’m looking to collaborate on **Go, Python and DevOps Based Projects**
 
-- 💬 Ask me about **Python, Django, Dart and Flutter**
+- 💬 Ask me about **Go and Gin, Python, Django, Dart and Flutter**
 
 - 📫 How to reach me **mathegeniuse@gmail.com**
 
